@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noob-dev. I work as a Software Engineer based in New Zealand.
+- 👋 Hi, I’m @red_developer. I work as a Software Engineer based in New Zealand.
 - 👀 I’m interested in meeting some other fellow noob developers who are willing to learn some new technologies.
 - 🌱 I’m currently experimenting with a few things at the moment. This repo is one of the ways to hold myself accountable to code everyday. 
 - 📫 Email me at reddeveloper7@gmail.com
